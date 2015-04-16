@@ -7,8 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MobileDeepLinking-iOS/MobileDeepLinking.h>
-#import <MobileDeepLinking-iOS/MDLDeeplinkMatcher.h>
+#import "MobileDeepLinking.h"
+#import "MDLDeeplinkMatcher.h"
 
 @interface EngageDeepLinkManager : NSObject
 

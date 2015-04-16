@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Silverpop. All rights reserved.
 //
 
-#import "AFOAuth2Client.h"
+#import "AFOAuth2Manager.h"
 #import "EngageLocalEventStore.h"
 
 typedef enum {

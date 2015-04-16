@@ -11,7 +11,7 @@
 #import "UBF.h"
 #import "EngageConfigManager.h"
 #import "EngageExpirationParser.h"
-#import <MobileDeepLinking-iOS/MDLConstants.h>
+#import "MDLConstants.h"
 
 @interface EngageDeepLinkManager()
 

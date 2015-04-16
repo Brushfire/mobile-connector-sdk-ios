@@ -5,7 +5,7 @@
 //  Created by andrew zuercher on 1/19/15.
 //  Copyright (c) 2015 Silverpop. All rights reserved.
 //
-#import "AFOAuth2Client.h"
+#import "AFOAuth2Manager.h"
 
 #import <Foundation/Foundation.h>
 
